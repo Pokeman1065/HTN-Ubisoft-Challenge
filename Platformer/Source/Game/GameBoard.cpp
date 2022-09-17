@@ -1,5 +1,6 @@
 #include "GameBoard.h"
 
+#include <SFML/System/Vector2.hpp>
 #include "GameEngine/GameEngineMain.h"
 
 
